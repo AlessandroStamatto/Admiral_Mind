@@ -1,0 +1,7 @@
+#ifndef COLORDEFINES
+#define COLORDEFINES
+
+#define DARK_BLUE {77, 161, 170}
+#define LIGHT_BLUE {145, 216, 247}
+
+#endif //COLORDEFINES
